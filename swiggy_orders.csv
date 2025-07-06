@@ -1,0 +1,11 @@
+OrderID,Customer,City,Food,Price,Rating,DeliveryTime,PaymentMethod
+101,Priya,Delhi,Pizza,250,4.3,30,Credit Card
+102,Rahul,Mumbai,Biryani,300,4.6,45,UPI
+103,Aman,Kolkata,Burger,180,3.9,28,Cash
+104,Neha,Delhi,Pasta,220,4.1,35,UPI
+105,Arjun,Bangalore,Idli,100,4.5,25,Wallet
+106,Kiran,Hyderabad,Biryani,320,4.7,50,UPI
+107,Sneha,Chennai,Dosa,150,4.0,27,Credit Card
+108,Aryan,Delhi,Chole Bhature,200,4.2,33,Cash
+109,Riya,Mumbai,Pizza,260,4.6,32,UPI
+110,Manish,Pune,Burger,190,3.8,30,Cash

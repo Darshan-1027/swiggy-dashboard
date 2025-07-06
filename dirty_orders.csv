@@ -1,0 +1,6 @@
+OrderID ,Customer , City ,Food ,Price ,Rating ,DeliveryTime ,PaymentMethod
+101, Priya, Delhi, Pizza, 250,,30, Credit Card
+102, Rahul, Mumbai, Biryani, 300,4.6,45,UPI
+103, Aman, Kolkata, Burger, ,3.9,28, Cash
+104, Neha, Delhi, Pasta, 220,4.1,35,UPI
+105, Rahul, Mumbai, Biryani, 300,4.6,45,UPI
